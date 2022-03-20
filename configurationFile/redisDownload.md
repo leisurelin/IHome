@@ -5,7 +5,7 @@
 2. 解压  
     `tar -zxvf redis-3.2.8.tar.gz`
 3. 放到/usr/local目录下  
-    `sudo mv ./redissudo mv ./redis`  
+    `sudo mv ./redis-3.2.8  /usr/local`  
 4. 进入redis目录  
     `cd /usr/local/redis/`
 5. 生成  
